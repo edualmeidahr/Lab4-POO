@@ -8,7 +8,6 @@ public class Triangulo {
         ladoB =1;
         ladoC =1;
         contInstancia++;
-
     }
 
 

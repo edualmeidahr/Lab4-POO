@@ -22,6 +22,7 @@ public class App {
         triangulo.tipoDeTriangulo(ladoA, ladoB, ladoC);
     }
         scanner.close();
+        System.out.format("\n%d Instâncias\n", Triangulo.contInstancia);
 
     }
 }

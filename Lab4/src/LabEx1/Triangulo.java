@@ -2,7 +2,7 @@ package LabEx1;
 public class Triangulo {
 
     private float ladoA, ladoB, ladoC, subtração;
-    static private int contInstancia=0; 
+    static public int contInstancia=0; 
     public Triangulo(){
         ladoA =1;
         ladoB =1;

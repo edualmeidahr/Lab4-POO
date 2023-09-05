@@ -36,5 +36,6 @@ public class App {
         }
     } while (op!=4);
     scanner.close();
+    System.out.format("\n%d Instâncias\n", lampada.contInstancia);
 }
 }

@@ -11,7 +11,7 @@ public class Lampada {
         contInstancia++;
     }
     //Atributos
-    private int contInstancia=0;
+    public int contInstancia=0;
     private String tensao;
     private String modelo;
     private boolean estadoLampada = false;
